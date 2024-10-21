@@ -8,7 +8,7 @@ import time
 # Set up Spotify API credentials
 SPOTIPY_CLIENT_ID = '47c68dfabfec4790a5efeaf3fbf29ed8'
 SPOTIPY_CLIENT_SECRET = 'ee5127901ff84e06ba3c30a0f6678974'
-SPOTIPY_REDIRECT_URI = 'http://localhost/'
+SPOTIPY_REDIRECT_URI = 'https://example.com/callback'
 SCOPE = 'playlist-modify-public'
 
 # Authenticate with Spotify
